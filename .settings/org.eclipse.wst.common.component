@@ -2,7 +2,7 @@
     <wb-module deploy-name="git_test">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <wb-resource deploy-path="/" source-path="/web/WEB-INF"/>
-        <property name="context-root" value="git"/>
         <property name="java-output-path" value="/git_test/build/classes"/>
+        <property name="context-root" value="git1"/>
     </wb-module>
 </project-modules>
